@@ -56,7 +56,3 @@ If the app detects it’s running on an emulator, it will:
 
 > Emulator detection: Based on `Build.MODEL`, `PRODUCT`, `FINGERPRINT`, and `HARDWARE`.
 
----
-
-## 📁 Folder Structure
-
