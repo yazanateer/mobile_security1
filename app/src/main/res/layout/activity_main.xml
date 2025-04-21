@@ -41,7 +41,7 @@
     <LinearLayout
         android:id="@+id/credentialsContainer"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="90dp"
         android:orientation="vertical"
         android:background="@drawable/dark_background"
         android:padding="16dp"
